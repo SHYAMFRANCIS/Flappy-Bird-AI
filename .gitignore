@@ -10,5 +10,7 @@
 *.log.*
 *.sig
 
+*.md
+
 pkg/
 src/
