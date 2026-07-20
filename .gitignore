@@ -11,6 +11,10 @@
 *.sig
 
 *.md
+__pycache__/
+build/
+dist/
+*.spec
 
 pkg/
 src/
